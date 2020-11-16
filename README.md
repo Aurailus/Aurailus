@@ -8,3 +8,5 @@
 - 📫 How to reach me: Look for me during the full moon, I'm fluffy.
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: Most fun facts are not, in fact, fun.
+
+<div style="background-color: #f00; width: 32px; height: 32px;">Test</div>
