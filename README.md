@@ -9,4 +9,4 @@
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: Most fun facts are not, in fact, fun.
 
-<div style="background-color: #f00; width: 32px; height: 32px;">Test</div>
+<div bgcolor="#f00">Test</div>
