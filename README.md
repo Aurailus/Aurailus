@@ -17,4 +17,4 @@
 
 - [Zepha](https://github.com/Aurailus/Zepha) - A super-fast, immensely moddable voxel game.
 - [AuriServe](https://github.com/AuriServe/AuriServe) - A breath of fresh air in the CMS ecosystem. Modern, open-source, Node-based magic.
-- [Aurailus/Minetest](https://github.com/Aurailus-Minetest) - Loads of high-quality Minetest mods. *(Discontinued)*
+- [Aurailus/Minetest](https://github.com/AurailusMinetest) - Loads of high-quality Minetest mods. *(Discontinued)*
