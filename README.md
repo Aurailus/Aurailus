@@ -1,12 +1,6 @@
-### It looks like I found a secret... Hi! 👋
+<p align="center">
+  <img width="192" height="192" src="https://avatars1.githubusercontent.com/u/22041561?s=460&u=be237bcbf0cbb7fef4b820d88dc7b9636a522a45&v=4">
+</p>
 
-- 🔭 I’m currently working on [Zepha](https://github.com/Aurailus/Zepha)~
-- 🌱 I’m currently learning everything :heart:
-- 👯 I’m looking to collaborate on reality as a concept.
-- 🤔 I’m looking for help with [my child](https://github.com/Aurailus/Zepha)
-- 💬 Ask me about *everything!*
-- 📫 How to reach me: Look for me during the full moon, I'm fluffy.
-- 😄 Pronouns: She/her
-- ⚡ Fun fact: Most fun facts are not, in fact, fun.
-
-<div bgcolor="#f00">Test</div>
+<h1 align="center">Auri Collings</h1>
+<p align="center"><em>Game, Web, and Software Developer here to <strike>destroy</strike> change the world.</em></p>
