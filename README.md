@@ -16,5 +16,5 @@
 ## Currently Creating
 
 - [Zepha](https://github.com/Aurailus/Zepha) - A super-fast, immensely moddable voxel game.
+- [Myxer](https://github.com/Aurailus/Myxer) - A simple, modern, pretty volume mixer for PulseAudio.
 - [AuriServe](https://github.com/AuriServe/AuriServe) - A breath of fresh air in the CMS ecosystem. Modern, open-source, Node-based magic.
-- [Aurailus/Minetest](https://github.com/AurailusMinetest) - Loads of high-quality Minetest mods. *(Discontinued)*
