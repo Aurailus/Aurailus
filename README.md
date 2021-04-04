@@ -9,6 +9,7 @@
   <a href="https://github.com/Aurailus"><img alt="Follow on Github" src="https://img.shields.io/github/followers/Aurailus?label=Follow%20on%20Github&logo=github&logoColor=cccccc&labelColor=2A3037&color=6cc644"></a>
   <a href="https://aurail.us/discord"><img alt="Join my Discord" src="https://img.shields.io/discord/416379773976051712.svg?color=7289DA&label=Join%20my%20Discord&logo=discord&logoColor=cccccc&labelColor=2A3037"></a>
   <a href="https://twitter.com/Aurailus"><img alt="Follow on Twitter" src="https://img.shields.io/static/v1?label=Follow%20on%20Twitter&message=50&color=08a0e9&logo=twitter&logoColor=cccccc&labelColor=2A3037"></a>
+  <a href="https://patreon.com/Aurailus"><img src="https://img.shields.io/static/v1?label=patreon&message=support&color=FF6952&logo=patreon&logoColor=cccccc&labelColor=2A3037" alt="Support on Patreon"/></a>
 </p>
 
 <br>
