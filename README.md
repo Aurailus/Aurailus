@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="192" height="192" src="https://raw.githubusercontent.com/Aurailus/Aurailus/master/auri_circle.png">
+  <img width="192" height="192" src="./auri_circle.png">
 </p>
 
 <h1 align="center">Auri Collings</h1>
